@@ -6,6 +6,8 @@ http://www.c-sharpcorner.com/article/creating-a-dropdown-list-using-spinner-in-x
 [Xamarin Sample Designs](https://developer.xamarin.com/samples/tag/Xamarin.Forms/)
 
 Using SQL and C#
+
+
 [insert data](https://stackoverflow.com/questions/12241084/how-to-insert-data-into-sql-server)
 [retrieve data](https://stackoverflow.com/questions/14171794/how-to-retrieve-data-from-a-sql-server-database-in-c)
 [get data](https://stackoverflow.com/questions/25739788/select-query-to-get-data-from-sql-server)
@@ -32,7 +34,8 @@ SQL and UI
 
 ### Log In Page
 ###### Antreas
-[https://components.xamarin.com/gettingstarted/loginscreen]
+[Xamarin Official Docs](https://components.xamarin.com/gettingstarted/loginscreen)
+[Encryption](https://stackoverflow.com/questions/29032706/c-sharp-encrypted-login)
 
 
 
