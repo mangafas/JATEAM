@@ -21,7 +21,7 @@
 
 [Basic BOC Hackathon](http://bochackathon.mybluemix.net/map)
 ###### End of Aug17
-### Deals Page
+#### Deals Page
 Notes: PDF Viewer and message
 
 [Xamarin PDF Viewer Docs](https://developer.xamarin.com/recipes/cross-platform/xamarin-forms/controls/display-pdf/)
@@ -37,7 +37,7 @@ Notes: From Google
 [Encryption](https://stackoverflow.com/questions/29032706/c-sharp-encrypted-login)
 ###### End of Oct17
 
-#### Mangafas
+### Mangafas
 #### Data Storage
 Notes: SQL and UI
 ###### End of Oct17
