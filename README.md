@@ -18,25 +18,28 @@
 ### Harris
 #### Closest_Supermarket 1.0
 [Google Maps API](https://developers.google.com/maps/android/)
+
 [Basic BOC Hackathon](http://bochackathon.mybluemix.net/map)
 ###### End of Aug17
 ### Deals Page
-PDF Viewer and message
+Notes: PDF Viewer and message
+
 [Xamarin PDF Viewer Docs](https://developer.xamarin.com/recipes/cross-platform/xamarin-forms/controls/display-pdf/)
 ###### End of Oct17
 
 ### Antreas
 #### Shopping List
-From Google
+Notes: From Google
 ###### Start of Sep17
 #### Log In Page
 [Xamarin Official Docs](https://components.xamarin.com/gettingstarted/loginscreen)
+
 [Encryption](https://stackoverflow.com/questions/29032706/c-sharp-encrypted-login)
 ###### End of Oct17
 
 #### Mangafas
 #### Data Storage
-SQL and UI
+Notes: SQL and UI
 ###### End of Oct17
 
 
