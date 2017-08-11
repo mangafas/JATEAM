@@ -1,3 +1,5 @@
+//where are the comments at?
+
 using System;
 using Android.App;
 using Android.Content;
