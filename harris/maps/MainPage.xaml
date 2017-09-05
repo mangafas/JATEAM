@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:Psoniapp_maps"
+             x:Class="Psoniapp_maps.MainPage"
+             Title="Main Page">
+    <ContentPage.Content>
+        <Label Text="Welcome to Sup_maps!" 
+               VerticalOptions="Center" 
+               HorizontalOptions="Center" />
+        <StackLayout
+                    HorizontalOptions="Fill"
+                    VerticalOptions="Start"
+                    Orientation="Vertical">
+            <Button x:Name="btnMap"
+                    Text="Nearest Supermarket's Map" />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:Psoniapp_maps"
+             x:Class="Psoniapp_maps.GetLocationPage"
+             Title="Enable your location">
+    <ContentPage.Content>
+        <Label Text="Enable your location before go..." 
+               VerticalOptions="Center" 
+               HorizontalOptions="Center" />
+        <StackLayout
+                    HorizontalOptions="Fill"
+                    VerticalOptions="Start"
+                    Orientation="Vertical">
+            <Label
+                    VerticalTextAlignment="Center"
+                    HorizontalTextAlignment="Center"
+                    Text="Enable your location:" />
+            <Button 
+                    x:Name="btnlocation"
+                    HorizontalOptions="End"
+                    Text="Yes!" />
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
