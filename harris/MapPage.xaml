@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:zzz"
+             x:Class="zzz.MapPage">
+
+    <Button x:Name="btnHybridView"
+              Text="Hybrid View" />
+    <Button x:Name="btnSatteliteView"
+              Text="Sattelite View" />
+    <Button x:Name="btnStreetView"
+              Text="Street View" />
+    
+</ContentPage>
